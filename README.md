@@ -109,7 +109,7 @@ http://localhost/task1/register.php
 
 ## 👨‍💻 Author
 
-**Name:**Nikhila
+**Name:** Nikhila
 **Internship at:** ApexPlanet Software Pvt. Ltd.  
 **Program:** Web Development — PHP & MySQL (30 Days)  
 **Task:** Task 1 — Setup and Basic User Authentication
