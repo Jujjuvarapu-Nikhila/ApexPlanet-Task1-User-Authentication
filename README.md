@@ -78,15 +78,23 @@ http://localhost/task1/register.php
 
 ---
 
+
 ## 📸 Screenshots
 
-> *(Add your screenshots here after running the project)*
+### Database — phpMyAdmin `users` Table
+![DB Table](db-table.png)
 
-- `screenshots/db-table.png` — phpMyAdmin users table
-- `screenshots/register.png` — Registration page
-- `screenshots/register-success.png` — After successful registration
-- `screenshots/login.png` — Login page
-- `screenshots/dashboard.png` — Dashboard after login
+### Registration Page
+![Register](register.png)
+
+### Successful Registration
+![Register Success](register-success.png)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard (After Login)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -101,6 +109,7 @@ http://localhost/task1/register.php
 
 ## 👨‍💻 Author
 
+**Name:**Nikhila
 **Internship at:** ApexPlanet Software Pvt. Ltd.  
 **Program:** Web Development — PHP & MySQL (30 Days)  
 **Task:** Task 1 — Setup and Basic User Authentication
